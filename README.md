@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m0hammedtellaoui and I'm a aspiring environment artist in the games industry
 
-- 👀 I’m interested in Information Technology
+- 👀 I’m interested in Information Technology and the basics of Python
 - 🌱 I’m currently a student at Academy of Interactive Entertainment 
 - 💞️ I’m looking to collaborate on my unit project and all production of game development
 
